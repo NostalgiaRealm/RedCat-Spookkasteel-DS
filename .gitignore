@@ -1,0 +1,6 @@
+build/
+*.nds
+*.elf
+nitrofiles/
+test/out/
+__pycache__/
